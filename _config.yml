@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'ml4u'
+title:            'mlp'
 tagline:          ''
-description:      'Machine learning'
+description:      'Machine learn Programming'
 url:              https://github.com/vkosuri/vkosuri.github.io
 baseurl:          /
 
