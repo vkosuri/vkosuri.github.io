@@ -23,3 +23,9 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/vkosuri/vkosuri.github.io
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
