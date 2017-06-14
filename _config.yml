@@ -1,1 +1,26 @@
-theme: jekyll-theme-architect
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'ML and NLP'
+tagline:          'ML and NLP'
+description:      'ML for Non Math guys'
+url:              https://github.com/vkosuri/vkosuri.github.io
+baseurl:          /
+
+author:
+  name:           'Mallikarjunarao Kosuri'
+  url:            https://twitter.com/mallikarjunarao
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/vkosuri/vkosuri.github.io
