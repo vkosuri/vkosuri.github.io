@@ -11,4 +11,4 @@ You can make decisions.
 ## What if did not took any decision
 It will become very difficult to make predictions.
 
-![Machine Learning Image]({{ site.url }}//downloads/machine-learning.png)
+![Image]({{ site.url }}/assets/img/machine-learning.png)
