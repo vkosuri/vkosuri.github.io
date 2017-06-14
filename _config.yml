@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'ML and NLP'
-tagline:          'ML and NLP'
-description:      'ML for Non Math guys'
+title:            'ml4u'
+tagline:          ''
+description:      'Machine learning'
 url:              https://github.com/vkosuri/vkosuri.github.io
 baseurl:          /
 
