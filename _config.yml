@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            'vkosuri'
 tagline:          'Machine Learner'
-description:      'Learning [nlp](https://en.wikipedia.org/wiki/Natural_language_processing) and [ml](https://en.wikipedia.org/wiki/Machine_learning) techniques trying to apply on end products.''
+description:      'Learning [nlp](https://en.wikipedia.org/wiki/Natural_language_processing) and [ml](https://en.wikipedia.org/wiki/Machine_learning) techniques trying to apply on end products.'
 url:              https://github.com/vkosuri/vkosuri.github.io
 baseurl:          /
 
