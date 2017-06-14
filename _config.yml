@@ -6,14 +6,14 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'Mallikarjunarao Kosuri'
-tagline:          'Learner, Developer and Tester'
-description:      'Learner, Developer and Tester'
+title:            'vkosuri'
+tagline:          'Machine Learner'
+description:      'Learning NLP and ML techniques tyring apply on end products'
 url:              https://github.com/vkosuri/vkosuri.github.io
 baseurl:          /
 
 author:
-  name:           'Mallikarjunarao Kosuri'
+  name:           'vkosuri'
   url:            https://twitter.com/mallikarjunarao
 
 paginate:         5
