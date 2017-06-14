@@ -11,4 +11,4 @@ You can make decisions.
 ## What if did not took any decision
 It will become very difficult to make predictions.
 
-![alt text](/vkosuri.github.io/downloads/machine-learning.png "Machine Learning")
+![Machine Learning Image]({{ site.url }}//downloads/machine-learning.png)
