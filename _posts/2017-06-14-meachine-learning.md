@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's is a ML?
+title: What's Machine Learning?
 ---
 I don't want confuse with many terms on ML topic. I am trying make it as simple as, when i was learned ML lessons
 
