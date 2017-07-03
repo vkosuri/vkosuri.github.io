@@ -22,5 +22,5 @@ It will become very difficult to make predictions.
 
 -----
 
-Send an <a href="mailto:malli.kv2@gmail.com?subject=POST:%20Bottom%20to%20top%20approach%20for%20list%20comprehension">Eamil</a> if you any have comments/suggestions.
+Send an <a href="mailto:malli.kv2@gmail.com?subject=POST:%20Bottom%20to%20top%20approach%20for%20list%20comprehension">Email</a> if you any have comments/suggestions.
 

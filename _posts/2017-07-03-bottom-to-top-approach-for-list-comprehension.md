@@ -9,14 +9,14 @@ title: Bottom to top approach for list comprehension
 
 With Referencing pull request comment [#809 (comment)](https://github.com/gunthercox/ChatterBot/pull/809#discussion_r125018676)
 
-Yes, I agree with @gunthercox comment, readability is very important any language it will gives us many advantages for example
+Yes, I agree with [@gunthercox](https://github.com/gunthercox) comment, readability is very important any language it will gives us many advantages for example 
 
 - Catching issues will be very easier and new develop/integration will become very easier.
 - Etc.
 
 Yes some-times it is necessary improve our code performance also, With some hacks the below formats are looking good to me.
 
-The method i named it here :arrow_heading_up: **Bottom to top approach for list comprehension**, will provide more readability :eyes:
+The method i named it here **Bottom to top approach for list comprehension**, will provide more readability.
 
 I did some exercise on some examples, All the example are valid PEP 8 Style Guide :thumbsup:
 
@@ -63,5 +63,5 @@ vs
 
 -----
 
-Send an <a href="mailto:malli.kv2@gmail.com?subject=POST:%20Bottom%20to%20top%20approach%20for%20list%20comprehension">Eamil</a> if you any have comments/suggestions.
+Send an <a href="mailto:malli.kv2@gmail.com?subject=POST:%20Bottom%20to%20top%20approach%20for%20list%20comprehension">Email</a> if you any have comments/suggestions.
 
