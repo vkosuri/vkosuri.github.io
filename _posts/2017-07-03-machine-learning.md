@@ -3,19 +3,19 @@ layout: post
 title:  "What is Meachine Learning(ML)"
 author: vkosuri
 categories: [ ML, tutorial ]
-image: assets/images/home.jpg
+image: assets/images/machine-learning.png
 tags: [sticky]
 ---
 
-# Meachine Learning(ML)
+### Meachine Learning(ML)
 
 I do not want confuse with many terms on ML. I am trying make as simple as, when i was learned ML lessons
 
-## What is Machine Learning
+### What is Machine Learning
 Make decisions or conclusions using avaliable data or past history.
 
-## Advantage
+### Advantage
 Humans are not meant for do repeated tasks, so we can effectlivy use meachine be making constructinve decesions.
 
-## What if did not took any decision
+### What if did not took any decision
 The process will take longer durations, impacts deliverables.
