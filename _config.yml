@@ -1,6 +1,6 @@
 # Site
 name: 'Mallikarjunarao Kosuri'
-description: 'I am developing new products from scratch and make my hands dirty with content. My job roles are evaluating Enterprise Turnkey Router and Switch products, and will work closely with the infrastructure to build a high scale testbeds. I am interested in sales, and marketing stuff as well.'
+description: ''
 logo: 'assets/images/logo.png'
 favicon: ''
 baseurl: ''
@@ -17,7 +17,17 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+
+authors:
+    vkosuri:
+      name:           Mallikarjunarao Kosuri
+      site:           https://vkosuri.github.io/index.html
+      avatar:         /assets/images/logo.jpg
+      bio:            "Hi, I am Mallikarjunarao Kosuri, the author of this blog, I am developing new products from scratch and make my hands dirty with content. My job roles are evaluating Enterprise Turnkey Router and Switch products, and will work closely with the infrastructure to build a high scale testbeds. I am interested in sales, and marketing stuff as well."
+      email:          malli.kv2@gmail.com
+      twitter:        https://twitter.com/mallikarjunarao
+
+
 # Defaults
 defaults:
 
@@ -26,8 +36,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: vkosuri
+      avatar: /assets/images/logo.jpg
       
   # all pages
   - scope:
