@@ -2,10 +2,12 @@
 layout: post
 title:  "Cannot Install Google Chrome. How do I fix it?"
 author: vkosuri
-categories: [ browser, tutorial ]
+categories: [ tips ]
 image: https://www.google.com/chrome/static/images/chrome-logo.svg
 tags: [sticky]
 ---
+Install Google chrome on Ubuntu 14 LTS, I treid many methods to install google chrome on my developer machine, somehow I couldn't sucessceed.
+The below procedure help me to overcome this issue.
 
 You probably need to enable the "universe" repository.
 

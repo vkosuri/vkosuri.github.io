@@ -2,14 +2,15 @@
 layout: post
 title:  "Learn how to Learn"
 author: vkosuri
-categories: [ Misc, tutorial ]
-image: https://en.wikipedia.org/wiki/Barbara_Oakley#/media/File:Barb_Oakley_jpg.jpg
+categories: [ Misc ]
+image: 
 tags: [sticky]
 ---
+Here some of the techniques that keep motiavte towards effective learning
 
-[Dr. Barbara Oakley](https://www.coursera.org/instructor/barboakley)
+Instructior: [Dr. Barbara Oakley](https://www.coursera.org/instructor/barboakley)
 
-Techniques for effective learning.
+### Techniques for effective learning.
 
 1. Focus Thinking
 2. Diffuse Thinking
@@ -20,3 +21,4 @@ Techniques for effective learning.
 
 * Google slide https://docs.google.com/presentation/d/1m2BfvAmSZIf7PzPLeJRZ3Fvep_pz5sFkl3ltmazo3Ko/edit?usp=sharing
 * Courseera https://www.coursera.org/learn/learning-how-to-learn
+* Learning how to learn | Barbara Oakley | TEDxOaklandUniversity https://www.youtube.com/watch?v=O96fE1E-rf8
