@@ -1,8 +1,8 @@
 # Site
 name: 'vkosuri'
 description: 'about me'
-logo: '/assets/images/avatar.jpg'
-favicon: ''
+logo: 'assets/images/avatar.jpg'
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'mallikarjunaraokosuri'
 email: 'malli.kv2@gmail.com'
