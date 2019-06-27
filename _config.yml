@@ -20,10 +20,10 @@ plugins:
 
 authors:
     vkosuri:
-      name:           Mallikarjunarao Kosuri
+      name:           vkosuri
       site:           https://vkosuri.github.io/index.html
-      avatar:         /assets/images/logo.jpg
-      bio:            "Hi, I am Mallikarjunarao Kosuri, the author of this blog, I am developing new products from scratch and make my hands dirty with content. My job roles are evaluating Enterprise Turnkey Router and Switch products, and will work closely with the infrastructure to build a high scale testbeds. I am interested in sales, and marketing stuff as well."
+      avatar:         /assets/images/avatar.png
+      bio:            "Hi, I am Mallikarjunarao Kosuri, the author of this blog, evaluating Enterprise Turnkey Router and Switch products, and will work closely with the infrastructure to build a high scale testbeds."
       email:          malli.kv2@gmail.com
       twitter:        https://twitter.com/mallikarjunarao
 
@@ -37,7 +37,7 @@ defaults:
     values:
       layout: post
       author: vkosuri
-      avatar: /assets/images/logo.jpg
+      avatar: /assets/images/avatar.png
       
   # all pages
   - scope:
