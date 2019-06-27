@@ -3,7 +3,7 @@ layout: post
 title:  "Learn How to Learn"
 author: vkosuri
 categories: [ Misc ]
-image: assets/images/lhl.png
+image: assets/images/post03.png
 tags: [featured]
 ---
 Here are some of the techniques that keep you motiavte towards effective learning.
