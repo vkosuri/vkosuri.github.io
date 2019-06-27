@@ -7,12 +7,10 @@ image: assets/images/machine-learning.png
 tags: [sticky]
 ---
 
-### Meachine Learning(ML)
-
-I do not want confuse with many terms on ML. I am trying make as simple as, when i was learned ML lessons
+I don't want confuse with many terms on ML. I am trying make as simple as, when i was learned ML lessons
 
 ### What is Machine Learning
-Make decisions or conclusions using avaliable data or past history.
+Make decisions or conclusions using past training expirence. 
 
 ### Advantage
 Humans are not meant for do repeated tasks, so we can effectlivy use meachine be making constructinve decesions.
