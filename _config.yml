@@ -1,7 +1,7 @@
 # Site
-name: 'Malli Kosuri'
+name: 'vkosuri'
 description: 'about me'
-logo: 'assets/images/avatar.jpg'
+logo: '/assets/images/avatar.jpg'
 favicon: ''
 baseurl: ''
 disqus: 'mallikarjunaraokosuri'
@@ -21,9 +21,9 @@ plugins:
 authors:
     vkosuri:
       name:           vkosuri
-      site:           https://vkosuri.github.io/index.html
-      avatar:         /assets/images/avatar.jpg
-      bio:            "Hi, I am Malli Kosuri, the author of this blog, evaluating Enterprise Turnkey Router and Switch products, and will work closely with the infrastructure to build a high scale testbeds."
+      site:           https://vkosuri.github.io/
+      avatar:         assets/images/avatar.jpg
+      bio:            "Hi, I am Mallikarjunarao Kosuri, the author of this blog, evaluating Enterprise Turnkey Router and Switch products, and will work closely with the infrastructure to build a high scale testbeds."
       email:          malli.kv2@gmail.com
       twitter:        https://twitter.com/mallikarjunarao
 
@@ -37,7 +37,7 @@ defaults:
     values:
       layout: post
       author: vkosuri
-      avatar: /assets/images/avatar.jpg
+      avatar: assets/images/avatar.jpg
       
   # all pages
   - scope:
