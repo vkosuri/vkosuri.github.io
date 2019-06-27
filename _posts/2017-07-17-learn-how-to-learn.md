@@ -4,7 +4,7 @@ title:  "Learn How to Learn"
 author: vkosuri
 categories: [ Misc ]
 image: assets/images/lhl.png
-tags: [sticky]
+tags: [featured]
 ---
 Here are some of the techniques that keep you motiavte towards effective learning.
 

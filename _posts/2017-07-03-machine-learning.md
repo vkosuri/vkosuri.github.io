@@ -4,7 +4,7 @@ title:  "What is Meachine Learning(ML)"
 author: vkosuri
 categories: [ ml ]
 image: assets/images/machine-learning.png
-tags: [sticky]
+
 ---
 
 I don't want confuse with many terms on ML. I am trying make as simple as.
