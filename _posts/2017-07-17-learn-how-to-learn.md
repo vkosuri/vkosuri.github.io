@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Learn how to Learn"
+title:  "Learn How to Learn"
 author: vkosuri
 categories: [ Misc ]
-image: 
+image: assets/images/lhl.png
 tags: [sticky]
 ---
-Here some of the techniques that keep motiavte towards effective learning
+Here are some of the techniques that keep you motiavte towards effective learning.
 
 Instructior: [Dr. Barbara Oakley](https://www.coursera.org/instructor/barboakley)
 
@@ -19,6 +19,6 @@ Instructior: [Dr. Barbara Oakley](https://www.coursera.org/instructor/barboakley
 5. spaced repetition Technique
 6. Memory Palace 
 
-* Google slide https://docs.google.com/presentation/d/1m2BfvAmSZIf7PzPLeJRZ3Fvep_pz5sFkl3ltmazo3Ko/edit?usp=sharing
-* Courseera https://www.coursera.org/learn/learning-how-to-learn
-* Learning how to learn | Barbara Oakley | TEDxOaklandUniversity https://www.youtube.com/watch?v=O96fE1E-rf8
+* Google slide [https://docs.google.com/presentation/d/1m2BfvAmSZIf7PzPLeJRZ3Fvep_pz5sFkl3ltmazo3Ko/edit?usp=sharing](https://docs.google.com/presentation/d/1m2BfvAmSZIf7PzPLeJRZ3Fvep_pz5sFkl3ltmazo3Ko/edit?usp=sharing)
+* Courseera [https://www.coursera.org/learn/learning-how-to-learn](https://www.coursera.org/learn/learning-how-to-learn)
+* Learning how to learn | Barbara Oakley | TEDxOaklandUniversity [https://www.youtube.com/watch?v=O96fE1E-rf8](https://www.youtube.com/watch?v=O96fE1E-rf8)
