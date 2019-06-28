@@ -7,8 +7,7 @@ I love open source project contributions, When I found some time I contribute to
 
 ### Python and Natural Language Processing
 1. [Chatterbot](https://github.com/vkosuri/ChatterBot) ChatterBot is a machine learning, conversational dialog engine. - [![GitHub stars](https://img.shields.io/github/stars/gunthercox/ChatterBot.svg)](https://github.com/gunthercox/ChatterBot/stargazers) [![GitHub forks](https://img.shields.io/github/forks/gunthercox/ChatterBot.svg)](https://github.com/gunthercox/ChatterBot/network)
-2. [chatterbot-live-example](https://github.com/vkosuri/chatterbot-live-example) Notes to deploy chatterbot on Heroku cloud :cloud: - 
-[![GitHub stars](https://img.shields.io/github/stars/vkosuri/chatterbot-live-example.svg)](https://github.com/vkosuri/chatterbot-live-example/stargazers) [![GitHub forks](https://img.shields.io/github/forks/vkosuri/chatterbot-live-example.svg)](https://github.com/vkosuri/chatterbot-live-example/network)
+2. [chatterbot-live-example](https://github.com/vkosuri/chatterbot-live-example) Notes to deploy chatterbot on Heroku cloud [![GitHub stars](https://img.shields.io/github/stars/vkosuri/chatterbot-live-example.svg)](https://github.com/vkosuri/chatterbot-live-example/stargazers) [![GitHub forks](https://img.shields.io/github/forks/vkosuri/chatterbot-live-example.svg)](https://github.com/vkosuri/chatterbot-live-example/network)
 3. [NLPRef](https://github.com/vkosuri/NLPRef) Natural Language Processing reference guide [![GitHub stars](https://img.shields.io/github/stars/vkosuri/NLPRef.svg)](https://github.com/vkosuri/NLPRef/stargazers) [![GitHub forks](https://img.shields.io/github/forks/vkosuri/NLPRef.svg)](https://github.com/vkosuri/NLPRef/network)
 
 
