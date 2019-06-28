@@ -11,9 +11,9 @@ The instruction will easier you Unbox your new linux machine, Hasslefree Python 
 
 
 Recommendation would be to use
-* Ubuntu 16.04 (xenial) or better - https://wiki.ubuntu.com/Releases
-* Linux Mint 18.x or better - https://linuxmint.com/
-* Debian 9 (strech) or later - https://www.debian.org/
+* Ubuntu 16.04 (xenial) or better - [https://wiki.ubuntu.com/Releases](https://wiki.ubuntu.com/Releases)
+* Linux Mint 18.x or better - [https://linuxmint.com/](https://linuxmint.com/)
+* Debian 9 (strech) or later - [https://www.debian.org/](https://www.debian.org/)
 
 ## Create a new user
 
