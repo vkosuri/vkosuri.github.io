@@ -5,23 +5,19 @@ permalink: "/experience.html"
 Mallikarjunara Kosuri
 =====================
 
-<table>
-    <tr>
-        <td>![img](../assets/images/avatar.jpg)</td>
-        <td> malli.kv2@gmail.com <br /> @mallikarjunarao <br /> Hyderabad <br /> </td>
-    </tr>
-</table>
-
+malli.kv2@gmail.com
+@mallikarjunarao
+Hyderabad, IN - 500081
 
 Education
 ---------
-**Master of Computer Applications**; JNTU Kakinada - **2006-2010**
+*Master of Computer Applications*; JNTU Kakinada - *2006-2010*
 
-**BSc, Computer Science and Electorins**; Nagarjuna University - **2003-2006**
+*BSc, Computer Science and Electorins*; Nagarjuna University - *2003-2006*
 
 Experience
 ----------
-**Stafff Engineer at ADTRAN, Hyd, Ind:** - **2013 - Present**
+*Stafff Engineer at ADTRAN; Hyd, Ind* - *2013 - Present*
 
 * Evaluating Turnkey Router&Switches along with ADTRAN products, Includes 
 Testing, License evaluations, Security Information documents.
@@ -35,11 +31,11 @@ and move them into the appropriate workflow.
 * Handling ZDI (Zero Dollar Invoice) products.
 * Update capital and operation expenditure for STPI products
 
-**MEMBER TECHNICAL STAFF, HCL Technologies Ltd, Bgrl, Ind:** - **2012 - 2013**
+*MEMBER TECHNICAL STAFF; HCL Technologies Ltd, Bgrl, Ind* - *2012 - 2013*
 * Working on Brocade - Mission-Critical Networks SAN Switches
 
-**Software Engineer - QA, NE Technologies Inc, Hyd, Ind:** - **2010 - 2012**
-* Working ADTRAN TA5K and AOE products
+*Software Engineer - QA; NE Technologies Inc, Hyd, Ind* - *2010 - 2012*
+* Working on ADTRAN TA5K and AOE products
 
 Open Source
 -----------
@@ -47,38 +43,38 @@ List open source I have been contributions are found [here](https://vkosuri.gith
 
 Programming Languages
 ---------------------
-**Python:** 
+*Python:*
 * I have been using this tool from last 4 to 5 years. 
 * The majority work with communicating with routers and switches do write test cases. 
 * Single page web app developement, string templating with Jinja2. 
 
-**Robotframework:** 
+*Robotframework:*
 * Writing test automation for telecomunication devices.
     
-**TCL-lang:** 
+*TCL-lang:*
 * I love this language primilary I started my carrier with this tool, 
 * My blog [http://tclscripting.blogspot.com/](http://tclscripting.blogspot.com/)
 
-**YANG, REST and Netconf:** 
+*YANG, REST and Netconf:*
 * YANG modeling parsing, auto testcase generation from YANG models.
 
-**Linux:** 
+*Linux:*
 * Our majority of work goes through the Linux Operating system only. 
 * Writing cron jobs, shell scripting when ever required
 
-**Version Control** 
+*Version Control*
 * GitHub, SVN
 
-**Protocols:** 
+*Protocols*
 * SNMP, STP
 
-**Layer 2 Technologies: ** 
+*Layer 2 Technologies*
 * Switching, VLAN, STP, RFC2544
 
-**Other Programming langague aware of**
+*Other Programming langague aware of*
 * golang, c++, Machine Learning, NLP
 
-**Ref** 
+*Ref*
 * [https://github.com/vkosuri](https://github.com/vkosuri)
 
 Human Languages
