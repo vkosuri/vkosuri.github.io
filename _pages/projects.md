@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Opensource Projects"
 permalink: "/projects.html"
 ---
 
