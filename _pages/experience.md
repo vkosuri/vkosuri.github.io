@@ -45,7 +45,7 @@ Awards
 
 Certificates
 ------------
-- ADTRAN Technical Solutions Associate for Internetworking (ATSA/IN)
+- ADTRAN Technical Solutions Associate for Internet working (ATSA/IN)
 - iTest Green Belt
 - CCNA(Expired)
 - SAFe 4.0 Scrum Master
@@ -61,9 +61,9 @@ Skills
 - Python, Robotframework, TCL - [MyBlog](http://tclscripting.blogspot.com/), YANG, Restconf, Netconf
 Linux
 - Version Control - GitHub, SVN
-- Protocols - SNMP, STP, IPv4
+- Protocols - SNMP, STP, IPv4, DHCP
 - Layer 2 - Switching, VLAN, STP, RFC2544
-- Other - golang, c++, Machine Learning, NLP
+- Other - golang, c++, Machine Learning, NLP, HPQC, 
 - Ref - [https://github.com/vkosuri](https://github.com/vkosuri)
 
 Human Languages

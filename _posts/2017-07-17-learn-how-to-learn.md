@@ -6,16 +6,16 @@ categories: [ Misc ]
 image: assets/images/post03.jpeg
 tags: [featured]
 ---
-Here are some of the techniques that keep you motiavte towards effective learning.
+Here are some of the techniques that keep you motivate towards effective learning.
 
-Instructior: [Dr. Barbara Oakley](https://www.coursera.org/instructor/barboakley)
+Instructor: [Dr. Barbara Oakley](https://www.coursera.org/instructor/barboakley)
 
 ### Techniques for effective learning.
 
 1. Focus Thinking
 2. Diffuse Thinking
 3. Procrastination Preview
-4. Pomodorao Timer
+4. Pomodoro Timer
 5. spaced repetition Technique
 6. Memory Palace 
 

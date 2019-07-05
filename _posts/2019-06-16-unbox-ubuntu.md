@@ -7,22 +7,22 @@ image: assets/images/ubuntu.png
 tags: [sticky]
 ---
 
-The instruction will easier you Unbox your new linux machine, Hasslefree Python setup and Build best Continution integration pipeline evironments.
+The instruction will easier you Unbox your new linux machine, Hasslefree Python setup and Build best Continuation integration pipeline environments.
 
 
 Recommendation would be to use
 * Ubuntu 16.04 (xenial) or better - [https://wiki.ubuntu.com/Releases](https://wiki.ubuntu.com/Releases)
 * Linux Mint 18.x or better - [https://linuxmint.com/](https://linuxmint.com/)
-* Debian 9 (strech) or later - [https://www.debian.org/](https://www.debian.org/)
+* Debian 9 (stretch) or later - [https://www.debian.org/](https://www.debian.org/)
 
 ## Create a new user
 
 ``` Bash
 # Create Home directory
-sudo useradd -m -d /home/svanapar svanapar
+sudo useradd -m -d /home/vkosuri vkosuri
 # Change Password
-sudo passwd svanapar
-sudo usermod -s /bin/bash svanapar
+sudo passwd vkosuri
+sudo usermod -s /bin/bash vkosuri
 ```
 
 ## Change Default Shell
@@ -36,12 +36,12 @@ usermod -s /bin/bash YOUR_USERNAME (replacing YOUR_USERNAME with your user name)
 setenv SHELL /bin/bash
 exec /bin/bash --login
 ```
-## Python Virtuan Environement
+## Python Virtual Environment
 
 ``` Bash
 sudo apt-get install virtualenv
 ```
-## Enterpise Pip configuration
+## Enterprise Pip configuration
 
 ```Bash
 machine:~$ vi ~/.pip/pip.conf
