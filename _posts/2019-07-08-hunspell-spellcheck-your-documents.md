@@ -4,7 +4,7 @@ title:  "Hunspell spell check your documents"
 author: vkosuri
 categories: [ tutorial]
 image: assets/images/hunspell.png
-tags: [sticky]
+tags: [sticky, featured]
 
 ---
 

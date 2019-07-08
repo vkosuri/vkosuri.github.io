@@ -4,7 +4,7 @@ title:  "Unbox Ubuntu Machine"
 author: vkosuri
 categories: [ linux ]
 image: assets/images/ubuntu.png
-tags: [sticky]
+tags: [notes]
 ---
 
 The instruction will easier you Unbox your new linux machine, Hasslefree Python setup and Build best Continuation integration pipeline environments.
