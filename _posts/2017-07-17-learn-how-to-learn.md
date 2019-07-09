@@ -2,7 +2,7 @@
 layout: post
 title:  "Learn How to Learn"
 author: vkosuri
-categories: [ Misc ]
+categories: [ tutorial]
 image: assets/images/post03.jpeg
 tags: [featured]
 ---
