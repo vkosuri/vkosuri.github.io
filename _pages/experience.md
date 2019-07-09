@@ -1,6 +1,6 @@
 ---
 title: "Work Experience"
-permalink: "/experience.md"
+permalink: "/experience.html"
 ---
 Mallikarjunara Kosuri
 =====================
