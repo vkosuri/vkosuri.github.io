@@ -4,11 +4,15 @@ title:  "Hunspell spell check your documents"
 author: vkosuri
 categories: [ tutorial]
 image: assets/images/hunspell.png
-tags: [sticky, featured]
+tags: [featured]
 
 ---
 
 Hunspell is the spell checker of [LibreOffice](http://www.libreoffice.org/), [OpenOffice.org](http://www.openoffice.org/), [Mozilla Firefox 3 & Thunderbird](http://www.mozilla.com/en-US), Google Chrome, and it is also used by proprietary software packages, like macOS, InDesign, memoQ, Opera and SDL Trados.
+
+
+
+[TOC]
 
 ### Install Hunspell
 
@@ -54,7 +58,7 @@ I am trying to veify hunspell cheker
 
 ``hunspell filename.txt`` will launch another window to check, in below image shows list available to words to correct verify.
 
-#### Commands
+### Commands
 
 ```Bash
 R       Replace the misspelled word completely.
@@ -78,7 +82,7 @@ Q       Quit immediately. Asks for confirmation. Leaves file unchanged.
 
 ![spell](../assets/images/hunspell_spellchek-1.png)
 
-### Setting Dictionary ENV 
+### Setting Dictionary ENV Variable
 
 hunspell always look for **DICPATH** environment variable to load dictionary, 
 
@@ -135,3 +139,9 @@ Hunspell 1.3.2
 
 ```
 
+### Download dictionaries
+
+Here are some of the reference links to download dictionaries
+
+- https://github.com/wooorm/dictionaries
+- https://github.com/LibreOffice/dictionaries
