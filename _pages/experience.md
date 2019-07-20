@@ -14,15 +14,20 @@ Experience
 ----------
 - **Staff Engineer at ADTRAN; Hyd, Ind** - *2013 - Present*
     - G.Fast DPU
-        * CI Pipeline development and Maintenance, Non-Functional Requirements (NFR) testing.
+        * CI Pipeline development, Maintenance, Non-Functional Requirements (NFR) testing.
+        * *Python, Robotframework, G.FAST, VDSL, Spirent, DHCP, RESTCONF*
     - Turnkey SMB(Small Medium Business) Switches
-        * Automation, Performance and scalability testing, quality assurance, and Continuous Integration.
+        * Automation, Performance, scalability testing, quality assurance, and Continuous Integration.
+        * *Python, Robotframework, Switching, Vendor communication*
     - ADTRAN Switches and Routers
-        * End to End Performance and scalability testing and quality assurance.
+        * End to End Performance, scalability testing, quality assurance and **Automated Customer Report** documentation preparation.
+        * *Robotframework, Python, Switching and Routing, QoS, DSL*
     - YANG Conformance Testing
-        * Development and Conformance Testing all YANG database with DUT implementation
+        * Design, API Development, Conformance Testing all YANG database with DUT implementation
+        * *Python, Roboframework, Unitest, Netconf, Restconf*
     - Command Line Interface (CLI) Conformance Testing
         * Develop automation, Test CLI command database with Reference Commands database.
+        * *MS-SQL, TCL/TK*
 
 - **MEMBER TECHNICAL STAFF; HCL Technologies Ltd, Bgrl, Ind** - *2012 - 2013*
     - SAN Switch Automation
@@ -34,14 +39,14 @@ Experience
 Awards
 ------
 - **Regression Compactor** Innovation and Improvement - *20 ‎Feb ‎2016*
-    - Techniques to reduce human efforts, monitoring long run executions
+    - Techniques to reduce human efforts, monitoring huge logs and long run executions remotely.
 - **Mosaic SDN Chat Bot** Innovation and Improvement - *15 ‎May ‎2017*
     - Customers can talk with SDN cloud to activate, deactivate services and resolve issues.
 - **YANG Natural Language Processor(YNLP)** Innovation and Improvement - *08 ‎December ‎2017*
     - Communicate [DPU](https://portal.adtran.com/web/page/portal/Adtran/group/4504) activate and deactivate RESTful services.
 - **CI Information Radiator** Hack-a-thon - *04 April 2019*
 - [YANG Conformance Tool](https://tools.ietf.org/html/draft-bierman-netmod-yang-conformance-00) Hack-a-thon - *7 July 2016*
-    - Parse YANG models using [pyang](https://github.com/mbj4668/pyang) and generate [robotframework](https://robotframework.org/) keyword drive test API code.
+    - Parse YANG models using [pyang](https://github.com/mbj4668/pyang) and generate [Robotframework](https://robotframework.org/) keyword drive test API code.
 
 Certificates
 ------------
