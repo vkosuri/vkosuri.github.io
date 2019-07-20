@@ -7,13 +7,13 @@ toc: true
 ![avatar](https://avatars1.githubusercontent.com/u/13664257?v=3&s=200) Mallikarjunara Kosuri [![GitHub followers](https://img.shields.io/github/followers/vkosuri.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vkosuri?tab=followers)
 =====================
 
-:email: [malli.kv2@gmail.com](mailto:malli.kv2@gmail.com)
+[malli.kv2@gmail.com](mailto:malli.kv2@gmail.com)
 
-:bird: [@mallikarjunarao](https://twitter.com/mallikarjunarao)
+[@mallikarjunarao](https://twitter.com/mallikarjunarao)
 
-:office: Hyderabad, IN - 500081
+Hyderabad, IN - 500081
 
-{{ content | toc }}
+{% toc %}
 
 Experience
 ----------
