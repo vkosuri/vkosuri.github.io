@@ -2,6 +2,7 @@
 title: "Work Experience"
 permalink: "/experience.html"
 ---
+[[!avatar]](https://avatars1.githubusercontent.com/u/13664257?v=3&s=200)
 Mallikarjunara Kosuri [![GitHub followers](https://img.shields.io/github/followers/vkosuri.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vkosuri?tab=followers)
 =====================
 <p>
@@ -55,7 +56,7 @@ Certificates
 - SAFe 4.0 Scrum Master
 - SAFe 4.0 Teams
 - SAFe4.0 DevOps
-- CCNA(Expired)
+- CCNA (Expired)
 
 Open Source
 -----------
