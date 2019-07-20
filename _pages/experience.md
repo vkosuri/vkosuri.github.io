@@ -2,7 +2,7 @@
 title: "Work Experience"
 permalink: "/experience.html"
 ---
-Mallikarjunara Kosuri
+Mallikarjunara Kosuri [![GitHub followers](https://img.shields.io/github/followers/vkosuri.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vkosuri?tab=followers)
 =====================
 <p>
 malli.kv2@gmail.com <br />
@@ -33,13 +33,13 @@ Experience
 
 Awards
 ------
-- Regression Compactor Innovation and Improvement - *20 ‎Feb ‎2016*
+- **Regression Compactor** Innovation and Improvement - *20 ‎Feb ‎2016*
     - Techniques to reduce human efforts, monitoring long run executions
-- Mosaic SDN Chat Bot Innovation and Improvement - *15 ‎May ‎2017*
-    - Using NLP
-- YANG Natural Language Processor(YNLP) Innovation and Improvement - *08 ‎December ‎2017*
-    - Communicate [DPU](https://portal.adtran.com/web/page/portal/Adtran/group/4504) 
-- CI Information Radiator Hack-a-thon - *04 April 2019*
+- **Mosaic SDN Chat Bot** Innovation and Improvement - *15 ‎May ‎2017*
+    - Customers can talk with SDN cloud to activate, deactivate services and resolve issues.
+- **YANG Natural Language Processor(YNLP)** Innovation and Improvement - *08 ‎December ‎2017*
+    - Communicate [DPU](https://portal.adtran.com/web/page/portal/Adtran/group/4504) activate and deactivate RESTful services.
+- **CI Information Radiator** Hack-a-thon - *04 April 2019*
 - [YANG Conformance Tool](https://tools.ietf.org/html/draft-bierman-netmod-yang-conformance-00) Hack-a-thon - *7 July 2016*
     - Parse YANG models using [pyang](https://github.com/mbj4668/pyang) and generate [robotframework](https://robotframework.org/) keyword drive test API code.
 
@@ -47,14 +47,14 @@ Certificates
 ------------
 - ADTRAN Technical Solutions Associate for Internet working (ATSA/IN)
 - iTest Green Belt
-- CCNA(Expired)
 - SAFe 4.0 Scrum Master
 - SAFe 4.0 Teams
 - SAFe4.0 DevOps
+- CCNA(Expired)
 
 Open Source
 -----------
-List open source I have been contributions are found [here](https://vkosuri.github.io/projects.html)
+List of all open source I have been contributions are found [here](https://vkosuri.github.io/projects.html)
 
 Skills
 ------
