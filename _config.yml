@@ -17,6 +17,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jemoji
+  - jekyll-toc
 
 authors:
     vkosuri:

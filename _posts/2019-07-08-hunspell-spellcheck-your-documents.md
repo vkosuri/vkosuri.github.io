@@ -5,7 +5,7 @@ author: vkosuri
 categories: [ tutorial]
 image: assets/images/hunspell.png
 tags: [featured]
-
+toc: true
 ---
 
 Hunspell is the spell checker of [LibreOffice](http://www.libreoffice.org/), [OpenOffice.org](http://www.openoffice.org/), [Mozilla Firefox 3 & Thunderbird](http://www.mozilla.com/en-US), Google Chrome, and it is also used by proprietary software packages, like macOS, InDesign, memoQ, Opera and SDL Trados.
