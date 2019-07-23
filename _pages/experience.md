@@ -5,50 +5,48 @@ permalink: "/experience.html"
 
 ![avatar](https://avatars1.githubusercontent.com/u/13664257?v=3&s=200) Mallikarjunara Kosuri [![GitHub followers](https://img.shields.io/github/followers/vkosuri.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vkosuri?tab=followers)
 =====================
-
-[malli.kv2@gmail.com](mailto:malli.kv2@gmail.com)
-
-[@mallikarjunarao](https://twitter.com/mallikarjunarao)
-
-Hyderabad, IN - 500081
+***
+| :email: [malli.kv2@gmail.com](mailto:malli.kv2@gmail.com) |  :bird: [@mallikarjunarao](https://twitter.com/mallikarjunarao) |  :office: Hyderabad, IN - 500081 |
 
 Experience
 ----------
 - **Staff Engineer at ADTRAN; Hyd, Ind** - *2013 - Present*
     - G.Fast DPU
         * CI Pipeline development, Maintenance, Non-Functional Requirements (NFR) testing.
-        * *Python, Robotframework, G.FAST, VDSL, Spirent, DHCP, RESTCONF*
+        * *Python, Robotframework, G.FAST, VDSL, Spirent, DHCP, RESTCONF, HPQC*
     - Turnkey SMB(Small Medium Business) Switches
         * Automation, Performance, scalability testing, quality assurance, and Continuous Integration.
-        * *Python, Robotframework, Switching, Vendor communication*
+        * *Python, Robotframework, Switching, Vendor communication, HPQC*
     - ADTRAN Switches and Routers
         * End to End Performance, scalability testing, quality assurance and **Automated Customer Report** documentation preparation.
-        * *Robotframework, Python, Switching and Routing, QoS, DSL*
+        * *Robotframework, Python, Switching and Routing, QoS, DSL, HPQC*
     - YANG Conformance Testing
         * Design, API Development, Conformance Testing all YANG database with DUT implementation
         * *Python, Roboframework, Unitest, Netconf, Restconf*
     - Command Line Interface (CLI) Conformance Testing
         * Develop automation, Test CLI command database with Reference Commands database.
-        * *MS-SQL, TCL/TK*
+        * *MS-SQL, TCL/TK, Regular expression, Automation, HPQC*
 
-- **MEMBER TECHNICAL STAFF; HCL Technologies Ltd, Bgrl, Ind** - *2012 - 2013*
+- **MEMBER TECHNICAL STAFF; HCL Technologies Ltd, Bangalore, Ind** - *2012 - 2013*
     - SAN Switch Automation
         * Automate customer scenario bugs.
+        * *TCL/TK, Automation*
 - **Software Engineer - QA; NE Technologies Inc, Hyd, Ind** - *2010 - 2012*
-    - AOE and TA5K
+    - AOE Network Management System and TA5K
         * GUI Automation using iTest and QTP and end-end testing.
+        * *TCL/TK, iTest, QTP, Regular expressions, Automation*
 
 Awards
 ------
-- **Regression Compactor** Innovation and Improvement - *20 ‎Feb ‎2016*
-    - Techniques to reduce human efforts, monitoring huge logs and long run executions remotely.
-- **Mosaic SDN Chat Bot** Innovation and Improvement - *15 ‎May ‎2017*
-    - Customers can talk with SDN cloud to activate, deactivate services and resolve issues.
-- **YANG Natural Language Processor(YNLP)** Innovation and Improvement - *08 ‎December ‎2017*
+- **CI Information Radiator** *Hack-a-thon* - *04 April 2019*
+- **YANG Natural Language Processor(YNLP)** *Innovation and Improvement(I&I)* - *08 ‎December ‎2017*
     - Communicate [DPU](https://portal.adtran.com/web/page/portal/Adtran/group/4504) activate and deactivate RESTful services.
-- **CI Information Radiator** Hack-a-thon - *04 April 2019*
-- [YANG Conformance Tool](https://tools.ietf.org/html/draft-bierman-netmod-yang-conformance-00) Hack-a-thon - *7 July 2016*
+- **Mosaic SDN Chat Bot** *Innovation and Improvement(I&I)* - *15 ‎May ‎2017*
+    - Customers can talk with SDN cloud to activate, deactivate services and resolve issues.
+- **[YANG Conformance Tool](https://tools.ietf.org/html/draft-bierman-netmod-yang-conformance-00)** *Hack-a-thon* - *7 July 2016*
     - Parse YANG models using [pyang](https://github.com/mbj4668/pyang) and generate [Robotframework](https://robotframework.org/) keyword drive test API code.
+- **Regression Compactor** *Innovation and Improvement(I&I)* - *20 ‎Feb ‎2016*
+    - Techniques to reduce human efforts, monitoring huge logs and long run executions remotely.
 
 Certificates
 ------------
