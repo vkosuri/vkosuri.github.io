@@ -63,10 +63,13 @@ layout: default
         
         
 		<div class="col-md-12 col-lg-8">
-            
-            <!-- Article -->
+			<!-- Toc -->
+			<div id="table-of-contents">
+				{% toc %}
+			</div>
+			<!-- Article -->
 			<article class="article-post">                
-			{{ content | toc}}
+			{{ content }}
 			</article>
 			
 			<!-- Tags -->
