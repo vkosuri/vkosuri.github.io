@@ -7,7 +7,7 @@ image: https://cdn.pixabay.com/photo/2017/11/13/23/26/train-2947086_960_720.jpg
 tags: [featured]
 ---
 
-I started my Deutsch learning A1 on 02nd June 2019 in [RK Math](https://rkmath.org/languagesadmissions). My learning started with Books **Deustch als Fremdspache Grundkurs IA** and **Netzwerk Deutsch als Fremdspache A1 textbook** and **Dulingo**. I steadily used Dulingo because you could learn more Nouns and Verbs. My suggestion would be keep maintain daily streak and participate in weekly leagues.
+I started my Deutsch learning A1 on 02nd June 2019 in [RK Math](https://rkmath.org/languagesadmissions). My learning started with Books **Deustch als Fremdspache Grundkurs IA** and **Netzwerk Deutsch als Fremdspache A1 textbook** and **Dulingo**. I steadily used Dulingo to learn more Nouns and Verbs. I used to participate in weekly leagues and most important i will try maintain a daily streak.
 
 These resource are found while my learning is in progression. I thought these reference might be helpful to everyone.
 
