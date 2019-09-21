@@ -6,7 +6,15 @@ permalink: "/experience.html"
 ![avatar](https://avatars1.githubusercontent.com/u/13664257?v=3&s=200) Mallikarjunara Kosuri [![GitHub followers](https://img.shields.io/github/followers/vkosuri.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vkosuri?tab=followers)
 =====================
 ***
-| :email: [malli.kv2@gmail.com](mailto:malli.kv2@gmail.com) |  :bird: [@mallikarjunarao](https://twitter.com/mallikarjunarao) |  :office: Hyderabad, IN - 500081 |
+| :email: [malli.kv2@gmail.com](mailto:malli.kv2@gmail.com) |  :bird: [@mallikarjunarao](https://twitter.com/mallikarjunarao) |  :office: Hyderabad, INDIA - 500081 |
+
+<fieldset>
+    <legend>Resume</legend>
+    <form>
+      <p><a href="https://github.com/vkosuri/vkosuri.github.io/assets/resume/Profile.pdf"><input type="button" class="btn" value="LinkedIn English CV" /> </a>
+      </p>
+    </form>
+</fieldset>
 
 Experience
 ----------
@@ -36,6 +44,17 @@ Experience
         * GUI Automation using iTest and QTP and end-end testing.
         * *TCL/TK, iTest, QTP, Regular expressions, Automation*
 
+Education
+---------
+- **Master of Computer Applications** - *2006 - 2009*
+    - Computer Applications c++, database, MS visual studio, unix, informatica, perl
+- **Bachelor of Computer Science** - *2003 - 2006*
+    - Computer Applications c++, oracle 9.0, sql/pl & sql, Electronics - JK Flip flops, Diodes, Resistors
+
+Patents
+-------
+ - Filed waiting to be grant.
+
 Awards
 ------
 - **CI Information Radiator** *Hack-a-thon* - *04 April 2019*
@@ -51,11 +70,11 @@ Awards
 Certificates
 ------------
 - ADTRAN Technical Solutions Associate for Internet working (ATSA/IN)
-- iTest Green Belt
 - SAFe 4.0 Scrum Master
 - SAFe 4.0 Teams
 - SAFe4.0 DevOps
 - CCNA (Expired)
+- Spirent iTest Green Belt
 
 Open Source
 -----------
@@ -65,14 +84,15 @@ Skills
 ------
 - Python, Robotframework, TCL - [MyBlog](http://tclscripting.blogspot.com/), YANG, Restconf, Netconf
 Linux
-- Version Control - GitHub, SVN
+- Version Control - Git, GitHub, SVN
 - Protocols - SNMP, STP, IPv4, DHCP
 - Layer 2 - Switching, VLAN, STP, RFC2544
-- Other - golang, c++, Machine Learning, NLP, HPQC, 
+- Traffic Gen - Spirent, ELMO(Ethernet Line MOdule)
+- Other - chatbots, golang, c++, Machine Learning, NLP, HPQC
 - Ref - [https://github.com/vkosuri](https://github.com/vkosuri)
 
 Human Languages
 ---------------
  * English
- * German (studying)
+ * German (A1, A2 studying)
  * Telugu (native language)
