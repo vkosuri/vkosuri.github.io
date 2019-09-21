@@ -11,7 +11,7 @@ permalink: "/experience.html"
 <fieldset>
     <legend>Resume</legend>
     <form>
-      <p><a href="https://github.com/vkosuri/vkosuri.github.io/assets/resume/Profile.pdf"><input type="button" class="btn" value="LinkedIn English CV" /> </a>
+      <p><a href="https://github.com/vkosuri/vkosuri.github.io/blob/master/assets/resume/Profile.pdf"><input type="button" class="btn" value="LinkedIn English CV" /> </a>
       </p>
     </form>
 </fieldset>
