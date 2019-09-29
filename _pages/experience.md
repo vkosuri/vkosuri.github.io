@@ -8,14 +8,6 @@ permalink: "/experience.html"
 ***
 | :email: [malli.kv2@gmail.com](mailto:malli.kv2@gmail.com) |  :bird: [@mallikarjunarao](https://twitter.com/mallikarjunarao) |  :office: Hyderabad, INDIA - 500081 |
 
-<fieldset>
-    <legend>Resume</legend>
-    <form>
-      <p><a href="https://github.com/vkosuri/vkosuri.github.io/raw/master/assets/resume/Profile.pdf"><input type="button" class="btn" value="LinkedIn English CV" /> </a>
-      </p>
-    </form>
-</fieldset>
-
 Experience
 ----------
 - **Staff Engineer at ADTRAN; Hyd, Ind** - *2013 - Present*
@@ -54,6 +46,13 @@ Education
 Patents
 -------
  - Filed waiting to be grant.
+
+APS - ADTRAN Proposed Solutions
+-------------------------------
+ - **YANG Conformance** - This memo describes how YANG how to avoid manual writing and updating tests for every endpoint in your [YANG](https://www.tail-f.com/what-is-yang/) generated API, let us do the heavy lifting through automation. The YANG conformance tester is automated framework that will generate tests from the same Yang models so you don’t have to. YANG Conformance is a measure accurately a device conforms to the YANG and deviations it supports.
+    - *Tools* : Python, Robotframework, Jinja2 templates, YANG models, REST API, JSON, NETCONF
+
+ - **SANTI Framework** - A framework to deliver a continuous integration and deployment Database Drive Testing on to different ADTRAN telecommunication products.
 
 Awards
 ------
