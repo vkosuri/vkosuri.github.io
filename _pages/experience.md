@@ -49,10 +49,13 @@ Patents
 
 APS - ADTRAN Proposed Solutions
 -------------------------------
- - **YANG Conformance** - This memo describes how YANG how to avoid manual writing and updating tests for every endpoint in your [YANG](https://www.tail-f.com/what-is-yang/) generated API, let us do the heavy lifting through automation. The YANG conformance tester is automated framework that will generate tests from the same Yang models so you don’t have to. YANG Conformance is a measure accurately a device conforms to the YANG and deviations it supports.
+ - **YANG Conformance**
+    - This framework delivers how to avoid manual writing and updating tests for every endpoint in your [YANG](https://www.tail-f.com/what-is-yang/) generated API, let us do the heavy lifting through automation. The YANG conformance tester is automated framework that will generate tests from the same Yang models from device capabilities so you don’t have to worry about about your YANG model percentage of coverage. YANG Conformance is a measure accurately a device conforms to the YANG and deviations it supports.
     - *Tools* : Python, Robotframework, Jinja2 templates, YANG models, REST API, JSON, NETCONF
 
- - **SANTI Framework** - A framework to deliver a continuous integration and deployment Database Drive Testing on to different ADTRAN telecommunication products.
+ - **SANTI Framework**
+    - A framework to delivers a continuous integration and deployment Database Drive Testing on to different ADTRAN telecommunication products.
+    - *Tools* - TCL/TK, Expect, Regular Expression, SQL
 
 Awards
 ------
