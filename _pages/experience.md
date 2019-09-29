@@ -45,12 +45,12 @@ Education
 
 Patents
 -------
- - Filed waiting to be grant.
+ - Patents are filed under Non Disclosure Agreement(NDA) waiting to be grant.
 
 APS - ADTRAN Proposed Solutions
 -------------------------------
  - **YANG Conformance**
-    - This framework delivers how to avoid manual writing and updating tests for every endpoint in your [YANG](https://www.tail-f.com/what-is-yang/) generated API, let us do the heavy lifting through automation. The YANG conformance tester is automated framework that will generate tests from the same Yang models from device capabilities so you don’t have to worry about about your YANG model percentage of coverage. YANG Conformance is a measure accurately a device conforms to the YANG and deviations it supports.
+    - This framework delivers how to avoid manual writing and updating tests for every endpoint in your [YANG](https://www.tail-f.com/what-is-yang/) generated API, let us do the heavy lifting through automation. The YANG conformance tester is automated framework that will generate tests from the same Yang models from device capabilities so you don’t have to worry about your YANG model percentage of coverage. YANG Conformance is a measure accurately a devices conforms to it's YANG and deviations it supports.
     - *Tools* : Python, Robotframework, Jinja2 templates, YANG models, REST API, JSON, NETCONF
 
  - **SANTI Framework**
