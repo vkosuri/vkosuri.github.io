@@ -5,6 +5,7 @@ author: vkosuri
 categories: [ deutsch ]
 image: https://cdn.pixabay.com/photo/2017/11/13/23/26/train-2947086_960_720.jpg
 tags: [featured]
+toc: true
 ---
 
 I started my Deutsch learning A1 on 02nd June 2019 in [RK Math](https://rkmath.org/languagesadmissions). My learning started with Books **Deustch als Fremdspache Grundkurs IA** and **Netzwerk Deutsch als Fremdspache A1 textbook** and **Dulingo**. I steadily used Dulingo to learn more Nouns and Verbs. I used to participate in weekly leagues and most important i will try to maintain the daily streak.
@@ -25,12 +26,12 @@ These references are found while my learning is in progression. I thought these 
 * [The German Project](https://www.thegermanproject.com/)
 
 ### Learning with Youtube Playlists
-* Learn German - 65 Videos - [A1 | Learn German for beginners](https://www.youtube.com/watch?v=RuGmc662HDg&list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW)
+* Learn German - 65 Videos - [A1 Learn German for beginners](https://www.youtube.com/watch?v=RuGmc662HDg&list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW)
 * Learn German with Anja - 63 Videos -  [GERMAN FOR BEGINNERS FREE COURSE (A1) LESSONS 1-63](https://www.youtube.com/watch?v=MOtqMNKs0Jw&list=PLYzp2xhTw9W1Z9RvnCoveC0W7pkwUMHXy)
 * Easy German - 44 Videos - [German for absolute beginners](https://www.youtube.com/watch?v=EKEYdvCASwQ&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg)
 * Learn German with Jenny - 76 Videos - [German A1 (1-71)](https://www.youtube.com/watch?v=39IZVX4cVmc&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg)
-* Learn German - 41 Videos [A1 | A2 | German Grammar](https://www.youtube.com/watch?v=y-aMTFMffDA&list=PLF9mJC4RrjIhOcVccRocapDsamn-JIceo)
-* Learn German - Deutsch für Euch - 46 Videos - [Deutsch lernen A1 - Learn German Basics | Deutsch Für Euch](https://www.youtube.com/watch?v=4DnNVi1qCyQ&list=PLDl7JofqmDnEGcUSdqiFWrGI6VHqRr9DS)
+* Learn German - 41 Videos [A1 and A2 German Grammar](https://www.youtube.com/watch?v=y-aMTFMffDA&list=PLF9mJC4RrjIhOcVccRocapDsamn-JIceo)
+* Learn German - Deutsch für Euch - 46 Videos - [Deutsch lernen A1 - Learn German Basics - Deutsch Für Euch](https://www.youtube.com/watch?v=4DnNVi1qCyQ&list=PLDl7JofqmDnEGcUSdqiFWrGI6VHqRr9DS)
 
 ### Learning with Youtube Movies
 * Deutsch lernen mit der - [DW - Nicos Weg – A1 – Ganzer Film](https://www.youtube.com/watch?v=4-eDoThe6qo&t=1588s)

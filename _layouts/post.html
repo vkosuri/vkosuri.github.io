@@ -35,13 +35,8 @@ layout: default
 </div>
 
 
-
-
-
 <div class="container-lg pt-4 pb-4">
 	<div class="row justify-content-center">
-        
-        
         <!-- Share -->
 		<div class="col-lg-2 pr-4 mb-4 col-md-12">
 			<div class="sticky-top sticky-top-offset text-center">
@@ -63,8 +58,11 @@ layout: default
         
         
 		<div class="col-md-12 col-lg-8">
+			<div id="table-of-contents">
+				{% toc %}
+			</div>
 			<!-- Article -->
-			<article class="article-post">                
+			<article class="article-post">
 				{{ content }}
 			</article>
 			

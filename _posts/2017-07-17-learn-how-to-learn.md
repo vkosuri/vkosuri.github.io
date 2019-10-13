@@ -5,6 +5,7 @@ author: vkosuri
 categories: [ tutorial]
 image: assets/images/post03.jpeg
 tags: [featured]
+toc: true
 ---
 Here are some of the techniques that keep you motivate towards effective learning.
 

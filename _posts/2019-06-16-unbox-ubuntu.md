@@ -5,6 +5,7 @@ author: vkosuri
 categories: [ linux ]
 image: assets/images/ubuntu.png
 tags: [notes]
+toc: true
 ---
 
 The instruction will easier you Unbox your new linux machine, Hasslefree Python setup and Build best Continuation integration pipeline environments.
