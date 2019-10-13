@@ -5,6 +5,7 @@ author: vkosuri
 categories: [ ml ]
 image: assets/images/machine-learning.png
 tags: [notes]
+toc: true
 ---
 
 I don't want confuse with many terms on ML. I am trying make as simple as.
