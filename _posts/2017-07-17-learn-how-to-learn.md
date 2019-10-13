@@ -11,7 +11,6 @@ Here are some of the techniques that keep you motivate towards effective learnin
 
 Instructor: [Dr. Barbara Oakley](https://www.coursera.org/instructor/barboakley)
 
-{%toc%}
 ### Techniques for effective learning.
 
 1. Focus Thinking
