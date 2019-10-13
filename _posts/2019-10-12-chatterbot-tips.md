@@ -8,8 +8,7 @@ tags: [featured]
 toc: true
 ---
 
-Here I would like to add some tips most commonly used for [chatterbot](https://github.com/gunthercox/ChatterBot)
-
+Some tips most commonly used for [chatterbot](https://github.com/gunthercox/ChatterBot)
 
 ## Chatbot text into events
 
@@ -17,14 +16,14 @@ Ref: [#482](https://github.com/gunthercox/ChatterBot/issues/482)
 
 Creating efficient scheduling operations can often be a challenging problem to solve. What about offloading the task to the user's calendar? Most calendar apps already display notifications when a scheduled event is coming up, and it would also make it possible synchronize the events across the user's devices if they were all connected to the same calendar.
 
-    https://msdn.microsoft.com/en-us/office/office365/api/calendar-rest-operations
-    https://developers.google.com/google-apps/calendar/v3/reference/
+    [https://msdn.microsoft.com/en-us/office/office365/api/calendar-rest-operations](https://msdn.microsoft.com/en-us/office/office365/api/calendar-rest-operations)
+    [https://developers.google.com/google-apps/calendar/v3/reference/](https://developers.google.com/google-apps/calendar/v3/reference/)
 
 ## Combination of both voice and chat
 
 Ref: [#416](https://github.com/gunthercox/ChatterBot/issues/416)
 
-I think it's definitely possible, but because it's a web app the audio will have to be processed on the client's side. This might make things easier because there is likely several javascript libraries available that handle speech recognition and speech synthesis. It looks like Google Chrome has built in support for both speech recognition and speech synthesis: https://developers.google.com/web/updates/2014/01/Web-apps-that-talk-Introduction-to-the-Speech-Synthesis-API
+I think it's definitely possible, but because it's a web app the audio will have to be processed on the client's side. This might make things easier because there is likely several javascript libraries available that handle speech recognition and speech synthesis. It looks like Google Chrome has built in support for both speech recognition and [speech synthesis](https://developers.google.com/web/updates/2014/01/Web-apps-that-talk-Introduction-to-the-Speech-Synthesis-API)
 
 To implement this, you would have to add some javascript to listen to the user's speech, then it could send that to the Django ChatterBot
 
@@ -42,7 +41,7 @@ Ref : [#518](https://github.com/gunthercox/ChatterBot/issues/518)
 
 With reference [#469](https://github.com/gunthercox/ChatterBot/issues/469) I felt introducing jinja2 template into corpus, A more useful to users and developers.
 
-```Json
+``` Json
 {
     "conversations": [
         [
