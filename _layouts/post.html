@@ -58,12 +58,9 @@ layout: default
         
         
 		<div class="col-md-12 col-lg-8">
-			<div id="table-of-contents">
-				{% toc %}
-			</div>
 			<!-- Article -->
 			<article class="article-post">
-				{{ content }}
+				{{ content | toc}}
 			</article>
 			
 			<!-- Tags -->
