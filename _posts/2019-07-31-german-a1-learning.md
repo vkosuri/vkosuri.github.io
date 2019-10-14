@@ -4,7 +4,7 @@ title:  "German A1 learning references"
 author: vkosuri
 categories: [ deutsch ]
 image: https://cdn.pixabay.com/photo/2017/11/13/23/26/train-2947086_960_720.jpg
-tags: [featured]
+tags: []
 toc: true
 ---
 
