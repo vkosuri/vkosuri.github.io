@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chatterbot Tricks"
+title:  "Chatterbot tips and tricks"
 author: vkosuri
 categories: [ chatbot ]
 image: https://camo.githubusercontent.com/b6aaad134a52f6a76001c91321fe81a2c889c45f/68747470733a2f2f692e696d6775722e636f6d2f623353436d47542e706e67
@@ -8,7 +8,7 @@ tags: [featured]
 toc: true
 ---
 
-Some tips most commonly used for [chatterbot](https://github.com/gunthercox/ChatterBot)
+Most commonly used for tips and tricks for [chatterbot](https://github.com/gunthercox/ChatterBot)
 
 ## Chatbot text into events
 
@@ -41,7 +41,7 @@ Ref : [#518](https://github.com/gunthercox/ChatterBot/issues/518)
 
 With reference [#469](https://github.com/gunthercox/ChatterBot/issues/469) I felt introducing jinja2 template into corpus, A more useful to users and developers.
 
-``` Json
+```json
 {
     "conversations": [
         [
@@ -56,7 +56,7 @@ With reference [#469](https://github.com/gunthercox/ChatterBot/issues/469) I fel
 }
 ```
 
-``` Python
+```python
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 from jinja2 import Environment, FileSystemLoader
@@ -76,4 +76,5 @@ chatterbot = ChatBot("Template Training Example")
 chatterbot.set_trainer(ListTrainer)
 for pair in corpus_data['conversations']:
     chatterbot.train(pair)
+
 ```

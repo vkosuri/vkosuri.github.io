@@ -18,6 +18,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jemoji
+  - jekyll-toc
 
 authors:
     vkosuri:
@@ -52,6 +53,7 @@ defaults:
 # Syntax
 markdown: kramdown
 highlighter: rouge
+
 
 # Paginate
 paginate: 10
