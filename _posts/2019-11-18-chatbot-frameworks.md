@@ -66,6 +66,6 @@ toc: true
     <td markdown="span">[Python](https://www.python.org/)</td>
     <td markdown="span">[Apache License 2.0](https://github.com/dialogflow/dialogflow-python-client-v2/blob/master/LICENSE)</td>
     <td markdown="span">[Dialogflow](https://dialogflow.com/docs/getting-started/basics)</td>
-    <td markdown="span">[Dialogflow Standard Edition Limitations](https://confluence.adtran.com/display/~sknight/Dialogflow+Standard+Edition+Limitations)</td>
+    <td markdown="span"></td>
   </tr>
 </table>
