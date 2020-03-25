@@ -3,7 +3,7 @@ layout: post
 title:  "Virtual Machines for Security Testing"
 author: vkosuri
 categories: [ security ]
-image: https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg
+image:
 tags: [featured]
 toc: true
 ---
