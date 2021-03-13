@@ -45,7 +45,8 @@ Education
 
 Patents
 -------
- - Patents are filed under Non Disclosure Agreement(NDA) waiting to be grant.
+ - [Artificial intelligence optimized telecommunications systems](https://patents.google.com/patent/US20190318238A1/)
+ - Yet to be filed
 
 APS - ADTRAN Proposed Solutions
 -------------------------------
