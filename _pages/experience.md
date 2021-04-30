@@ -8,9 +8,21 @@ permalink: "/experience.html"
 ***
 | :email: [malli.kv2@gmail.com](mailto:malli.kv2@gmail.com) |  :bird: [@mallikarjunarao](https://twitter.com/mallikarjunarao) |  :office: Hyderabad, INDIA - 500081 |
 
+Patents
+-------
+ - [Artificial intelligence optimized telecommunications systems](https://patents.google.com/patent/US20190318238A1/)
+ - Yet to be filed
+
 Experience
 ----------
-- **Staff Engineer at ADTRAN; Hyd, Ind** - *2013 - Present*
+- **Software Eningeer III at [F5](https://www.f5.com/); Hyd, IND** - *2020 - Present*
+    - SSL Core
+        * TLS, SSL, [FIPS](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards), [HSM](https://en.wikipedia.org/wiki/Hardware_security_module)
+        * RCA for SRs, Automate Customers Service requests using Pyton and Bugs, SSL Forward and Reverse Proxy regressions.
+        * Net HSM(Safenet, Thales), Full box FIPS, Cloud HSM(Equinix, Safent DPoD, Azure), OpenSSL, CAs
+
+- **Staff Engineer at [Altran](https://capgemini-engineering.com/us/en/); Hyd, IND** - *2013 - 2020*
+    - *Rebaged from [ADTRAN](https://www.adtran.com/) to Altran on March 17th 2020*
     - G.Fast DPU
         * CI Pipeline development, Maintenance, Non-Functional Requirements (NFR) testing.
         * *Python, Robotframework, G.FAST, VDSL, Spirent, DHCP, RESTCONF, HPQC*
@@ -27,7 +39,7 @@ Experience
         * Develop automation, Test CLI command database with Reference Commands database.
         * *MS-SQL, TCL/TK, Regular expression, Automation, HPQC*
 
-- **MEMBER TECHNICAL STAFF; HCL Technologies Ltd, Bangalore, Ind** - *2012 - 2013*
+- **MEMBER TECHNICAL STAFF; [HCL Technologies Ltd](https://www.hcltech.com/), Bangalore, Ind** - *2012 - 2013*
     - SAN Switch Automation
         * Automate customer scenario bugs.
         * *TCL/TK, Automation*
@@ -43,23 +55,8 @@ Education
 - **Bachelor of Computer Science** - *2003 - 2006*
     - Computer Applications c++, oracle 9.0, sql/pl & sql, Electronics - JK Flip flops, Diodes, Resistors
 
-Patents
--------
- - [Artificial intelligence optimized telecommunications systems](https://patents.google.com/patent/US20190318238A1/)
- - Yet to be filed
-
-APS - ADTRAN Proposed Solutions
--------------------------------
- - **YANG Conformance**
-    - This framework delivers how to avoid manual writing and updating tests for every endpoint in your [YANG](https://www.tail-f.com/what-is-yang/) generated API, let us do the heavy lifting through automation. The YANG conformance tester is automated framework that will generate tests from the same Yang models from device capabilities so you don’t have to worry about your YANG model percentage of coverage. YANG Conformance is a measure accurately a devices conforms to it's YANG and deviations it supports.
-    - *Tools* : Python, Robotframework, Jinja2 templates, YANG models, REST API, JSON, NETCONF
-
- - **SANTI Framework**
-    - A framework to delivers a continuous integration and deployment Database Drive Testing on to different ADTRAN telecommunication products.
-    - *Tools* - TCL/TK, Expect, Regular Expression, SQL
-
-Awards
-------
+Mini Projects
+-------------
 - **CI Information Radiator** *Hack-a-thon* - *04 April 2019*
 - **YANG Natural Language Processor(YNLP)** *Innovation and Improvement(I&I)* - *08 ‎December ‎2017*
     - Communicate [DPU](https://portal.adtran.com/web/page/portal/Adtran/group/4504) activate and deactivate RESTful services.
@@ -88,7 +85,7 @@ Skills
 - Python, Robotframework, TCL - [MyBlog](http://tclscripting.blogspot.com/), YANG, Restconf, Netconf
 Linux
 - Version Control - Git, GitHub, SVN
-- Protocols - SNMP, STP, IPv4, DHCP
+- Protocols - TLS, SSL, SNMP, STP, IPv4, DHCP
 - Layer 2 - Switching, VLAN, STP, RFC2544
 - Traffic Gen - Spirent, ELMO(Ethernet Line MOdule)
 - Other - chatbots, golang, c++, Machine Learning, NLP, HPQC
